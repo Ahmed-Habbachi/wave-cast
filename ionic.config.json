@@ -1,0 +1,7 @@
+{
+  "name": "Wave Cast",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
